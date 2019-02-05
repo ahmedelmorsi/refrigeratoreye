@@ -1,3 +1,6 @@
+#1 May 2016 Graduation Project 2016
+#Features Matrix Extractor
+#Nora Basha , Ahmed EL-morsy , Ahmed Al-Badrawy
 import sys , time
 import cv2
 import os
