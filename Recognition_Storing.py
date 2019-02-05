@@ -1,6 +1,6 @@
 #1 May 2016 Graduation Project 2016
 #Features Matrix Extractor
-#Nora Basha , Aliaa Alzohairy , Ahmed Al-Badrawy
+#Nora Basha , Ahmed EL-morsy , Ahmed Al-Badrawy
 #############################
 #Importing necessary libraries
 import numpy as np
